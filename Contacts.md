@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-nav_order: 4
 layout: page
 ---
 # Contact
