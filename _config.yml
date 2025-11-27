@@ -5,14 +5,24 @@ title: "Portfolio – Samira Mamane Sidi"
 description: "Portfolio Data Science"
 baseurl: "" # laisser vide si déploiement à la racine
 url: ""     # mettre l'URL du site si déployé
-theme: minimal-mistakes-jekyll
+
+# -----------------------------
+# Thème Minimal Mistakes (remote)
+# -----------------------------
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
+# -----------------------------
+# Markdown
+# -----------------------------
 markdown: kramdown
 
 # -----------------------------
-# Navigation
+# Navigation automatique
 # -----------------------------
 # Le menu est généré automatiquement à partir de nav_order dans chaque page
-# Si besoin, tu peux ajouter un menu fixe ici :
 nav:
   - title: "Accueil"
     url: /
@@ -23,4 +33,7 @@ nav:
   - title: "Contact"
     url: /contact/
 
-
+# -----------------------------
+# Options supplémentaires du thème
+# -----------------------------
+# Voir la doc complète : https://mmistakes.github.io/minimal-mistakes/docs/configuration/
