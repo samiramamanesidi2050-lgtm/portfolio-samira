@@ -1,6 +1,6 @@
 ---
 title: "Projets"
-layout: page
+layout: default
 ---
 
 Bienvenue sur ma page projet.  
