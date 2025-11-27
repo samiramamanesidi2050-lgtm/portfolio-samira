@@ -20,7 +20,7 @@ Actuellement, je recherche **un stage de 4 à 6 mois** pour mettre mes compéten
 ---
 
 ## 🔗 Liens rapides
-- [Mon CV](./assets/CV_Samira_2026.pdf)
+- [Mon CV](./assets/CV_Samira_Mamane_Sidi.pdf)
 - [GitHub](https://github.com/samiramamanesidi2050-lgtm)
 - [LinkedIn](https://linkedin.com/in/samira-mamane-sidi-3508ba271)
 
