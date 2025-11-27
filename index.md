@@ -1,6 +1,5 @@
 ---
 title: "Accueil"
-layout: default
 ---
 
 # 👋 Bonjour, je suis **Samira Mamane Sidi**
