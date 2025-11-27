@@ -2,29 +2,31 @@
 title: "Portfolio – Samira Mamane Sidi"
 ---
 
-# 👋 Bonjour, je suis Samira  
-Actuellement étudiante en double Master 2 (Statistique & Sciences des Données / Statistique pour l’Information et l’Aide à la Décision), je développe une double compétence solide : la rigueur analytique des statistiques avancées et la compréhension concrète des enjeux de décision en entreprise.
+# 👋 Bonjour, je suis **Samira Mamane Sidi**
+**Étudiante en double Master 2 – Statistiques & Data Science / Statistiques pour l’Aide à la Décision**
 
-Mon objectif est de traduire des données complexes en outils d'aide à la décision simples et efficaces.
+Bienvenue sur mon portfolio !  
+Je développe une expertise solide à l’intersection **de la modélisation statistique**, **de l’analyse de données** et **du machine learning appliqué**.  
+Mon objectif : **transformer des données complexes en outils d’aide à la décision fiables, interprétables et utiles pour les équipes métiers.**
 
-Compétences Clés :
+## 🔍 Ce que je fais
+- **Modélisation & Machine Learning** : régression, classification, calibration, interprétation de modèles  
+- **Analyse statistique avancée** : tests, inférence, optimisation  
+- **Technologies** : Python (Pandas, Scikit-learn), R, SQL  
+- **Projet & Déploiement** : pipeline complet, visualisation, applications Streamlit
 
-Modélisation & Analyse : Bonne maîtrise de la modélisation statistique, des techniques de Machine Learning (régression, classification) et des méthodes d'optimisation. J'accorde une importance particulière à la fiabilité des modèles (Calibration) et à l'interprétation des résultats.
+Actuellement, je recherche **un stage de 6 mois** pour mettre mes compétences en pratique et contribuer à des projets data à fort impact.
 
-Technologie : Maîtrise des outils de production : Python (Pandas, Scikit-learn), R et SQL.
-
-Projet & Déploiement : Capacité à mener un projet d'analyse complet, du nettoyage des données à la mise en production via la création d'interfaces utilisateurs (ex: applications Streamlit).
-
-Je recherche un stage de 6 mois pour mettre mes compétences en œuvre et contribuer concrètement à l'amélioration de la performance par la donnée.
-
-Bienvenue sur mon portfolio.  
-Je suis passionnée par la modélisation, l'analyse de données et les applications pratiques du machine learning.
+---
 
 ## 🔗 Liens rapides
 - [Mon CV](./assets/CV_Samira_2026.pdf)
 - [GitHub](https://github.com/samiramamanesidi2050-lgtm)
 - [LinkedIn](https://linkedin.com/in/samira-mamane-sidi-3508ba271)
 
+---
+
 ## 📊 Mes projets
-👉 Cliquez sur la page “Projets” dans la barre de navigation.
+👉 Rendez-vous dans l’onglet **“Projets”** pour découvrir mes réalisations.
+
 
