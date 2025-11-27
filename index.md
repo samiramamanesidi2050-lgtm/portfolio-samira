@@ -29,6 +29,7 @@ Actuellement, je recherche **un stage de 4 à 6 mois** pour mettre mes compéten
 ## 📊 Mes projets
 👉 Rendez-vous dans l’onglet **“Projets”** pour découvrir mes réalisations.
 ➡️ [Voir mon projet : Prédiction d’Octroi de Prêt Bancaire](./projects.md)
-## 
+## 👩‍💻 À propos de moi
+[En savoir plus sur moi](./Aboutme.md)
 
 
