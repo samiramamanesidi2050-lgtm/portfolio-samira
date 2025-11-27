@@ -1,8 +1,7 @@
 ---
-title: "📁 Projet Data Science"
-
-layout: default
-
+title: "Projets"
+nav_order: 2
+layout: page
 ---
 
 Bienvenue sur ma page projet.  
