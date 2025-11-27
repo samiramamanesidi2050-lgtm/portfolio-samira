@@ -1,7 +1,6 @@
 ---
 title: "À propos"
-nav_order: 3
-layout: page
+layout: default
 ---
 
 ## 👩‍💻 À propos de moi
