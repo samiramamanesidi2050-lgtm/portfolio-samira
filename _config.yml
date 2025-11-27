@@ -1,4 +1,29 @@
+# -----------------------------
+# Configuration du Portfolio
+# -----------------------------
 title: "Portfolio – Samira Mamane Sidi"
 description: "Portfolio Data Science"
-theme: jekyll-theme-cayman
+baseurl: "" # laisser vide si déploiement à la racine
+url: ""     # mettre l'URL du site si déployé
+theme: minimal-mistakes-jekyll
 markdown: kramdown
+
+# -----------------------------
+# Navigation
+# -----------------------------
+# Le menu est généré automatiquement à partir de nav_order dans chaque page
+# Si besoin, tu peux ajouter un menu fixe ici :
+nav:
+  - title: "Accueil"
+    url: /
+  - title: "Projets"
+    url: /projects/
+  - title: "À propos"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
+# -----------------------------
+# Options du thème
+# -----------------------------
+# Plus d'options ici : https://mmistakes.github.io/minimal-mistakes/docs/configuration/
