@@ -7,4 +7,4 @@ layout: page
 
 Vous pouvez me contacter via :  
 - Email : samiramamanesidi2050@gmail.com  
-- LinkedIn : [Lien LinkedIn](https://www.linkedin.com/in/samira)
+- LinkedIn : [Lien LinkedIn](https://linkedin.com/in/samira-mamane-sidi-3508ba271)
