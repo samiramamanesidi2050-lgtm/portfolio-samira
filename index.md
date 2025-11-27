@@ -1,6 +1,5 @@
 ---
 title: "Accueil"
-nav_order: 1
 layout: home
 ---
 
@@ -32,5 +31,7 @@ Actuellement, je recherche **un stage de 4 à 6 mois** pour mettre mes compéten
 ➡️ [Voir mon projet : Prédiction d’Octroi de Prêt Bancaire](./projects.md)
 ## 👩‍💻 À propos de moi
 [En savoir plus sur moi](./Aboutme.md)
+## Contacts
+[Pour me contacter](./Contacts.md)
 
 
