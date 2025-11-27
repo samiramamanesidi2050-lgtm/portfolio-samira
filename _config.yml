@@ -2,3 +2,10 @@ title: "Portfolio – Samira Mamane Sidi"
 description: "Portfolio Data Science"
 theme: jekyll-theme-cayman
 markdown: kramdown
+navbar:
+  - title: "Accueil"
+    url: /
+  - title: "Projets"
+    url: /projects
+  - title: "À propos"
+    url: /about
