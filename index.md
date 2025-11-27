@@ -10,12 +10,12 @@ Je développe une expertise solide à l’intersection **de la modélisation sta
 Mon objectif : **transformer des données complexes en outils d’aide à la décision fiables, interprétables et utiles pour les équipes métiers.**
 
 ## 🔍 Ce que je fais
-- **Modélisation & Machine Learning** : régression, classification, calibration, interprétation de modèles  
+- **Modélisation & Machine Learning** : régression, classification,  interprétation de modèles  
 - **Analyse statistique avancée** : tests, inférence, optimisation  
 - **Technologies** : Python (Pandas, Scikit-learn), R, SQL  
 - **Projet & Déploiement** : pipeline complet, visualisation, applications Streamlit
 
-Actuellement, je recherche **un stage de 6 mois** pour mettre mes compétences en pratique et contribuer à des projets data à fort impact.
+Actuellement, je recherche **un stage de 4 à 6 mois** pour mettre mes compétences en pratique et contribuer à des projets data à fort impact.
 
 ---
 
