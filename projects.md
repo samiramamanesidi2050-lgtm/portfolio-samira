@@ -34,7 +34,7 @@ La priorité était donc d’améliorer le **rappel** (recall) sur la classe des
   - Matrice de confusion  
 
 ### 📊 Résultats
-- Le modèle **Gradient Boosting ** offre le meilleur compromis entre rappel et précision  
+- Le modèle **Gradient Boosting** offre le meilleur compromis entre rappel et précision  
 - Amélioration du score sur la classe minoritaire grâce à SMOTE  
 - Visualisations : importance des variables, courbe ROC, matrices de confusion
 
