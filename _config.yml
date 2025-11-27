@@ -1,39 +1,4 @@
-# -----------------------------
-# Configuration du Portfolio
-# -----------------------------
 title: "Portfolio – Samira Mamane Sidi"
 description: "Portfolio Data Science"
-baseurl: "" # laisser vide si déploiement à la racine
-url: ""     # mettre l'URL du site si déployé
-
-# -----------------------------
-# Thème Minimal Mistakes (remote)
-# -----------------------------
-theme: null
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-
-# -----------------------------
-# Markdown
-# -----------------------------
+theme: jekyll-theme-cayman
 markdown: kramdown
-
-# -----------------------------
-# Navigation automatique
-# -----------------------------
-# Le menu est généré automatiquement à partir de nav_order dans chaque page
-nav:
-  - title: "Accueil"
-    url: /
-  - title: "Projets"
-    url: /projects/
-  - title: "À propos"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
-
-# -----------------------------
-# Options supplémentaires du thème
-# -----------------------------
-# Voir la doc complète : https://mmistakes.github.io/minimal-mistakes/docs/configuration/
