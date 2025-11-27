@@ -1,5 +1,7 @@
 ---
-title: "Portfolio – Samira Mamane Sidi"
+title: "Accueil"
+nav_order: 1
+layout: home
 ---
 
 # 👋 Bonjour, je suis **Samira Mamane Sidi**
