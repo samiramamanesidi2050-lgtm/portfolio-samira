@@ -2,7 +2,7 @@
 title: " 👩‍💻 À propos de moi"
 layout: default
 ---
-# 👩‍💻 À propos de moi
+
 
 Je suis Samira, étudiante en double diplome Master 2 Statistiques & Science des Données et Master 2 Statistiques pour l'Information et l'Aide à la Décision .  
 Je construis ce portfolio pour partager mes projets et progresser en data science.
