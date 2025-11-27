@@ -4,7 +4,9 @@ Bienvenue sur ma page projet.
 Vous trouverez ici mon premier projet complet en modélisation et machine learning, que je continuerai à enrichir au fur et à mesure.
 
 ---
-
+title: "Projet – Prédiction d’Octroi de Prêt Bancaire"
+layout: default
+---
 # 🔹 Prédiction d’Octroi de Prêt Bancaire  
 **IAE Montpellier – 2025**
 
